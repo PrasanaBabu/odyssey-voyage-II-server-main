@@ -3,6 +3,6 @@ include_subgraph_errors:
 headers:
   all:
     request:
-      -propagate:
-        named: 'Authorization'
+      - propagate:
+          named: "Authorization"
 
